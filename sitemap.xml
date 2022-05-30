@@ -2,30 +2,30 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://example.org/</loc>
+    <loc>https://thom0962.github.io/PorteFolio/</loc>
     <lastmod>2022-05-09T10:22:48+02:00</lastmod>
   </url><url>
-    <loc>http://example.org/projets/projet/</loc>
+    <loc>https://thom0962.github.io/PorteFolio/projets/projet/</loc>
     <lastmod>2022-05-09T10:22:48+02:00</lastmod>
   </url><url>
-    <loc>http://example.org/projets/</loc>
+    <loc>https://thom0962.github.io/PorteFolio/projets/</loc>
     <lastmod>2022-05-09T10:22:48+02:00</lastmod>
   </url><url>
-    <loc>http://example.org/projets/seance3/</loc>
+    <loc>https://thom0962.github.io/PorteFolio/projets/seance3/</loc>
     <lastmod>2022-05-09T10:22:48+02:00</lastmod>
   </url><url>
-    <loc>http://example.org/projets/seance4/</loc>
+    <loc>https://thom0962.github.io/PorteFolio/projets/seance4/</loc>
     <lastmod>2022-05-09T10:22:48+02:00</lastmod>
   </url><url>
-    <loc>http://example.org/blog/</loc>
+    <loc>https://thom0962.github.io/PorteFolio/blog/</loc>
     <lastmod>2022-04-25T11:15:06+02:00</lastmod>
   </url><url>
-    <loc>http://example.org/blog/mon-deuxieme-article/</loc>
+    <loc>https://thom0962.github.io/PorteFolio/blog/mon-deuxieme-article/</loc>
     <lastmod>2022-04-25T11:15:06+02:00</lastmod>
   </url><url>
-    <loc>http://example.org/blog/mon-premier-article/</loc>
+    <loc>https://thom0962.github.io/PorteFolio/blog/mon-premier-article/</loc>
     <lastmod>2022-04-25T11:15:06+02:00</lastmod>
   </url><url>
-    <loc>http://example.org/tags/</loc>
+    <loc>https://thom0962.github.io/PorteFolio/tags/</loc>
   </url>
 </urlset>
