@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>My New Hugo Site</title>
+    <link>http://example.org/</link>
+    <description>Recent content on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 09 May 2022 10:22:48 +0200</lastBuildDate><atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>projet</title>
+      <link>http://example.org/projets/projet/</link>
+      <pubDate>Mon, 09 May 2022 10:22:48 +0200</pubDate>
+      
+      <guid>http://example.org/projets/projet/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Seance3</title>
+      <link>http://example.org/projets/seance3/</link>
+      <pubDate>Mon, 09 May 2022 10:22:48 +0200</pubDate>
+      
+      <guid>http://example.org/projets/seance3/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Seance4</title>
+      <link>http://example.org/projets/seance4/</link>
+      <pubDate>Mon, 09 May 2022 10:22:48 +0200</pubDate>
+      
+      <guid>http://example.org/projets/seance4/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mon Deuxieme Article</title>
+      <link>http://example.org/blog/mon-deuxieme-article/</link>
+      <pubDate>Mon, 25 Apr 2022 11:15:06 +0200</pubDate>
+      
+      <guid>http://example.org/blog/mon-deuxieme-article/</guid>
+      <description>bonsoir</description>
+    </item>
+    
+    <item>
+      <title>Mon Premier Article</title>
+      <link>http://example.org/blog/mon-premier-article/</link>
+      <pubDate>Mon, 25 Apr 2022 11:15:06 +0200</pubDate>
+      
+      <guid>http://example.org/blog/mon-premier-article/</guid>
+      <description>bonjour</description>
+    </item>
+    
+  </channel>
+</rss>
