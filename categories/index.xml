@@ -1,27 +1,27 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories on My New Hugo Site</title>
-    <link>c:\Users\gasto\OneDrive\Bureau\BUT\PPP2\PorteFolio/categories/</link>
-    <description>Recent content in Categories on My New Hugo Site</description>
+    <title>Categories on My PorteFolio</title>
+    <link>https://thom0962.github.io/PorteFolio/categories/</link>
+    <description>Recent content in Categories on My PorteFolio</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Mon, 09 May 2022 10:22:48 +0200</lastBuildDate><atom:link href="c:\\Users\\gasto\\OneDrive\\Bureau\\BUT\\PPP2\\PorteFolio/categories/index.xml" rel="self" type="application/rss+xml" />
+    <language>fr-fr</language>
+    <lastBuildDate>Mon, 09 May 2022 10:22:48 +0200</lastBuildDate><atom:link href="https://thom0962.github.io/PorteFolio/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Développement web</title>
-      <link>c:\Users\gasto\OneDrive\Bureau\BUT\PPP2\PorteFolio/categories/d%C3%A9veloppement-web/</link>
+      <link>https://thom0962.github.io/PorteFolio/categories/d%C3%A9veloppement-web/</link>
       <pubDate>Mon, 09 May 2022 10:22:48 +0200</pubDate>
       
-      <guid>c:\Users\gasto\OneDrive\Bureau\BUT\PPP2\PorteFolio/categories/d%C3%A9veloppement-web/</guid>
+      <guid>https://thom0962.github.io/PorteFolio/categories/d%C3%A9veloppement-web/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Projet</title>
-      <link>c:\Users\gasto\OneDrive\Bureau\BUT\PPP2\PorteFolio/categories/projet/</link>
+      <link>https://thom0962.github.io/PorteFolio/categories/projet/</link>
       <pubDate>Mon, 09 May 2022 10:22:48 +0200</pubDate>
       
-      <guid>c:\Users\gasto\OneDrive\Bureau\BUT\PPP2\PorteFolio/categories/projet/</guid>
+      <guid>https://thom0962.github.io/PorteFolio/categories/projet/</guid>
       <description></description>
     </item>
     

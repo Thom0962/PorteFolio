@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on My New Hugo Site</title>
-    <link>c:\Users\gasto\OneDrive\Bureau\BUT\PPP2\PorteFolio/tags/</link>
-    <description>Recent content in Tags on My New Hugo Site</description>
+    <title>Tags on My PorteFolio</title>
+    <link>https://thom0962.github.io/PorteFolio/tags/</link>
+    <description>Recent content in Tags on My PorteFolio</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="c:\\Users\\gasto\\OneDrive\\Bureau\\BUT\\PPP2\\PorteFolio/tags/index.xml" rel="self" type="application/rss+xml" />
+    <language>fr-fr</language><atom:link href="https://thom0962.github.io/PorteFolio/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
